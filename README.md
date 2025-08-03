@@ -2,6 +2,10 @@
 
 # 以下待整理
 
+技能提升指南 - Thoughts Memo的文章 - 知乎
+https://zhuanlan.zhihu.com/p/1895168314860357192
+
+
 杨振宁 \space | \space 直觉和现实出现误差时是学习和研究机会
 
 \href{https://yufeizhao.com/gtac/}{18.225 Graph Theory and Additive Combinatorics | MIT | Yuan Yao}
