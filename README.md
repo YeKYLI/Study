@@ -2,11 +2,15 @@
 
 和MCP对接研究、写出meta数据结构生成交付代码和文档 形成这种工作模式
 
-# 以下待整理
+# 学习技巧
 
 技能提升指南 - Thoughts Memo的文章 - 知乎
 https://zhuanlan.zhihu.com/p/1895168314860357192
 
+学习有点类似打游戏了、主要可以处于心流的状态所以可以一直打游戏 学习也可以类似 找到最小的困难梯度去学习
+[长期努力靠的不是毅力｜关于坚持](https://www.bilibili.com/video/BV1eZttzsEwa/?share_source=copy_web&vd_source=e0450010f297691cb0a94ff045e331a8)
+
+# 以下待整理
 
 杨振宁 \space | \space 直觉和现实出现误差时是学习和研究机会
 
