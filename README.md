@@ -12,6 +12,8 @@ https://zhuanlan.zhihu.com/p/1895168314860357192
 
 # 以下待整理
 
+费曼 ｜ 物理之于数学做爱之余手淫 还是一个很有意思的现象 学物理的大一新生会因为量子物理、穿越、string theory选择物理 但是会在大一大二漫长的普通物理、力学课程中消耗干净自己的好奇心和毅力 还不如在一开始就上量子物理的课 先上最酷炫的东西
+
 杨振宁 \space | \space 直觉和现实出现误差时是学习和研究机会
 
 \href{https://yufeizhao.com/gtac/}{18.225 Graph Theory and Additive Combinatorics | MIT | Yuan Yao}
