@@ -2,13 +2,21 @@
 
 和MCP对接研究、写出meta数据结构生成交付代码和文档 形成这种工作模式
 
+# Textbook
+
+[不同领域的圣经级书籍有哪些？ - 知乎](https://www.zhihu.com/question/28438145)
+
 # 学习技巧
 
 技能提升指南 - Thoughts Memo的文章 - 知乎
 https://zhuanlan.zhihu.com/p/1895168314860357192
 
+## 心流
+
 学习有点类似打游戏了、主要可以处于心流的状态所以可以一直打游戏 学习也可以类似 找到最小的困难梯度去学习
 [长期努力靠的不是毅力｜关于坚持](https://www.bilibili.com/video/BV1eZttzsEwa/?share_source=copy_web&vd_source=e0450010f297691cb0a94ff045e331a8)
+
+可以找到自己会的部分 然后一点点扩展自己边界 建立知识树 形成解构和建构的共振 最终快速通关
 
 # 以下待整理
 
@@ -18,6 +26,8 @@ https://zhuanlan.zhihu.com/p/1895168314860357192
 
 \href{https://yufeizhao.com/gtac/}{18.225 Graph Theory and Additive Combinatorics | MIT | Yuan Yao}
 教科书 | \href{https://yufeizhao.com/gtacbook/}{Graph Theory and Additive Combinatorics}
+
+[如何将读过的书内化为自己的东西？ - Thoughts Memo的回答 - 知乎 | 三部曲](https://www.zhihu.com/question/1939257180328030959/answer/1943409953814582764)
 
 \subsubsection*{脚手架}
 
